@@ -2,9 +2,9 @@
 
 A modern AI chatbot built with:
 
-* **React** frontend (beautiful, responsive, dark/light mode)
-* **Flask** backend using **Groq API (llama3-70b-8192)** for fast, high-quality AI responses
-* Typing effect, conversation history, personality modes, and error handling
+- **React** frontend (beautiful, responsive, dark/light mode)
+- **Flask** backend using **Groq API (llama3-70b-8192)** for fast, high-quality AI responses
+- Typing effect, conversation history, personality modes, and error handling
 
 🌐 **Frontend deployed on Vercel**
 ⚙️ **Backend deployed on Hugging Face Spaces**
@@ -25,19 +25,23 @@ A modern AI chatbot built with:
 
 ## 📦 Technologies
 
-* React (Frontend)
-* Flask (Python Backend)
-* Groq API (llama3-70b-8192 model)
-* Axios
-* React Icons
-* Hugging Face Spaces (Backend deployment)
-* Vercel (Frontend deployment)
+- React (Frontend)
+- Flask (Python Backend)
+- Groq API (llama3-70b-8192 model)
+- Axios
+- React Icons
+- Hugging Face Spaces (Backend deployment)
+- Vercel (Frontend deployment)
 
 ---
 
+## 📸 Preview
+
+![Neura Chatbot Screenshot](preview.png)
+
 ## 🚀 Live Demo
 
-* **Frontend (Vercel):** [🔗 your-vercel-url.vercel.app](#)
+- **Frontend (Vercel):** [🔗 neura-chatbot.haidersajjad.site](#)
 
 ---
 
@@ -97,7 +101,7 @@ const res = await axios.post("http://localhost:5000/chat", {
 });
 ```
 
-*(For production, replace with Hugging Face API URL)*
+_(For production, replace with Hugging Face API URL)_
 
 ---
 
@@ -162,10 +166,10 @@ neura-ai-chatbot/
 
 ## 🧑‍💻 Credits
 
-* Developed by **Haider Sajjad Azmat**
-* AI model via **Groq (llama3-70b-8192)**
-* Frontend deployed on **Vercel**
-* Backend deployed on **Hugging Face Spaces**
+- Developed by **Haider Sajjad Azmat**
+- AI model via **Groq (llama3-70b-8192)**
+- Frontend deployed on **Vercel**
+- Backend deployed on **Hugging Face Spaces**
 
 ---
 
