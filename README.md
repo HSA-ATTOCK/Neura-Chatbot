@@ -41,7 +41,11 @@ A modern AI chatbot built with:
 
 ## 🚀 Live Demo
 
+<<<<<<< HEAD
 - **Frontend (Vercel):** [🔗 neura-chatbot.haidersajjad.site](#)
+=======
+* **Frontend (Vercel):** [🔗 neura-chatbot.haidersajjad.site](#)
+>>>>>>> fdcea7a46ed231182eaab9ae96a7d9c9911913ae
 
 ---
 
