@@ -37,7 +37,7 @@ A modern AI chatbot built with:
 
 ## 🚀 Live Demo
 
-* **Frontend (Vercel):** [🔗 your-vercel-url.vercel.app](#)
+* **Frontend (Vercel):** [🔗 neura-chatbot.haidersajjad.site](#)
 
 ---
 
