@@ -64,8 +64,10 @@ function App() {
     setIsLoading(true);
     setError(null);
 
+    const backend_url = process.env.REACT_APP_BACKEND_URL;
+
     try {
-      const res = await axios.post("http://localhost:5000/chat", {
+      const res = await axios.post(`${backend_url}/chat`, {
         message: input,
       });
 
